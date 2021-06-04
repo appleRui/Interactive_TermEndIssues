@@ -6,6 +6,7 @@
     box-sizing: border-box;
     color: #000000;
     line-height: 1;
+    font-family: 'Noto Serif JP', serif;
 }
 
 header {
@@ -66,6 +67,7 @@ header .container {
     color: #fafafa;
     font-size: 64px;
     font-weight: normal;
+    margin-bottom: 20px;
 }
 
 .mv-txt {
