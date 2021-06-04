@@ -1,0 +1,194 @@
+@media only screen and (max-width:767px) {
+    header {
+        height: 50px;
+    }
+
+    header .container {
+        margin: 0 5%;
+        width: 90%;
+    }
+
+    .lg {
+        height: 50px;
+    }
+
+    .hd-right {
+        display: none;
+    }
+
+    .menu {
+        margin: 5px 0;
+        margin-right: 5%;
+        width: 40px;
+        height: 40px;
+        border: 1px solid #fafafa;
+    }
+
+    .menu-bar {
+        display: block;
+        width: 25px;
+        height: 2px;
+        margin: 5px auto;
+        border: 1px solid #fafafa;
+    }
+
+    .menu-bar:first-child {
+        margin-top: 10px;
+    }
+
+    .mv {
+        background: url(img/code.png) no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .mv-ttl {
+        margin-bottom: 10px;
+        font-size: 40px;
+        font-weight: bold;
+    }
+
+    .mv-txt {
+        font-size: 18px;
+    }
+
+    .pf-inner {
+        margin: 0 5%;
+        width: 90%;
+    }
+
+    .pf-ttl {
+        font-size: 32px;
+        font-weight: bold;
+    }
+
+    .pf-txt {
+        font-size: 16px;
+    }
+
+    .pf-boxs {
+        flex-direction: column;
+        align-items: center;;
+    }
+
+    .box1 {
+        display: none;
+    }
+
+    .box2 {
+        margin-right: 0px;
+    }
+
+    .box3 {
+        display: none;
+    }
+
+    .box4 {
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .box5 {
+        display: none;
+    }
+
+    .feature {
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    .ft-ttl {
+        font-size: 32px;
+        font-weight: bold;
+    }
+
+    .ft-txt {
+        font-size: 16px;
+    }
+
+    .ft-box {
+        display: block;
+        margin: 0px auto;
+        margin-bottom: 10px;
+    }
+
+    .ft-box:last-child {
+        margin-bottom: 0px;
+        margin: 0 auto;
+    }
+
+    .fas {
+        font-size: 60px;
+    }
+
+    .profile .container {
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    .prof-ttl {
+        font-weight: bold;
+    }
+
+    .prof-inner {
+        display: block;
+    }
+
+    .prof-left {
+        width: auto;
+    }
+
+    .prof-img {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .prof-right {
+        width: auto;
+        text-align: center;
+    }
+
+    .prof-skills h2 {
+        font-weight: bold;
+    }
+
+    .contact {
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    .con-txt-area h2 {
+        font-weight: bold;
+    }
+
+    .con-inner {
+        width: auto;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .con-address {
+        width: auto;
+    }
+
+    .contact .tel {
+        margin-bottom: 20px;
+    }
+
+    .con-sns {
+        width: auto;
+    }
+
+    .con-sns-content {
+        width: auto;
+    }
+
+    .fab {
+        margin-right: 8px;
+    }
+
+    .fab:first-child {
+        margin-right: 0px;
+
+    }
+}
